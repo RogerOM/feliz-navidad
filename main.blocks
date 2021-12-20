@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id=")OS:Z]IW%7b/u{9XH_Lu" x="277" y="-53"><statement name="HANDLER"><block type="device_print_message" id="z}i)_i[:~*E4r1@R%|q8"><value name="text"><shadow type="text" id="u0v:$rI6xa@IXr08e*V1"><field name="TEXT">Bon Nadal!</field></shadow></value><next><block type="controls_repeat_ext" id="Z%UHJ:Y6uLKi}5!L@6Jp"><value name="TIMES"><shadow type="math_whole_number" id="33Cy[(uJMI#,Rl`y)oTZ"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="Q32Y310Bp46(IQ)7Sy]]"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="5czwABpu*-=$]APKHiUy"><value name="pause"><shadow type="timePicker" id=",6EtXAjxb/3WjCLrGYb%"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="aQbyaWVb$ng@.0BB8Pur"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="KFVX,.`2@w[va+UHLRiS"><value name="pause"><shadow type="timePicker" id="+C:]Zp[LsbP]?M(@_/~b"><field name="ms">200</field></shadow></value></block></next></block></next></block></next></block></statement></block></next></block></statement></block><block type="pxt-on-start" id="98XC1C|uP/`69ST2e1)S" x="0" y="0"/></xml>
